@@ -3,12 +3,43 @@
     <title>Bidouille &amp; Compagnie</title>
     <link href="https://hans-trapp.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://hans-trapp.github.io/gh-pages" />
-    <updated>2023-10-14T07:15:14+02:00</updated>
+    <updated>2023-10-14T10:37:02+02:00</updated>
     <author>
         <name>D&#x27;Hans Trapp</name>
     </author>
     <id>https://hans-trapp.github.io/gh-pages</id>
 
+    <entry>
+        <title>Le vol du moineau</title>
+        <author>
+            <name>D&#x27;Hans Trapp</name>
+        </author>
+        <link href="https://hans-trapp.github.io/gh-pages/la-galerie-des-moineaux/"/>
+        <id>https://hans-trapp.github.io/gh-pages/la-galerie-des-moineaux/</id>
+            <category term="Oiseaux"/>
+
+        <updated>2023-10-14T10:37:02+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Une importante colonie de moineaux a élu domicile près de chez nous. Je ne me lasse pas d'observer et de photographier leurs ébats. Mon principal défi : fixer ces oiseaux en vol.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Une importante colonie de moineaux a élu domicile près de chez nous. Je ne me lasse pas d'observer et de photographier leurs ébats. Mon principal défi : fixer ces oiseaux en vol.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://hans-trapp.github.io/gh-pages/media/posts/7/gallery/20230827-Moineaux01-118_1000.jpg" data-size="1000x536"><img loading="lazy" src="https://hans-trapp.github.io/gh-pages/media/posts/7/gallery/20230827-Moineaux01-118_1000-thumbnail.jpg" alt="Le premier moineau" width="720" height="386"></a></figure>
+<figure class="gallery__item"><a href="https://hans-trapp.github.io/gh-pages/media/posts/7/gallery/20230910-moineaux-273_1000.jpg" data-size="1000x533"><img loading="lazy" src="https://hans-trapp.github.io/gh-pages/media/posts/7/gallery/20230910-moineaux-273_1000-thumbnail.jpg" alt="Le deuxième moneau" width="720" height="384"></a></figure>
+<figure class="gallery__item"><a href="https://hans-trapp.github.io/gh-pages/media/posts/7/gallery/20230912-moineaux_2-162_1000.jpg" data-size="1000x533"><img loading="lazy" src="https://hans-trapp.github.io/gh-pages/media/posts/7/gallery/20230912-moineaux_2-162_1000-thumbnail.jpg" alt="" width="720" height="384"></a></figure>
+<figure class="gallery__item"><a href="https://hans-trapp.github.io/gh-pages/media/posts/7/gallery/20230912-Moineaux_01-13_1000.jpg" data-size="1000x535"><img loading="lazy" src="https://hans-trapp.github.io/gh-pages/media/posts/7/gallery/20230912-Moineaux_01-13_1000-thumbnail.jpg" alt="" width="720" height="385"></a></figure>
+<figure class="gallery__item"><a href="https://hans-trapp.github.io/gh-pages/media/posts/7/gallery/20230809-Moineaux-02-89_1000.jpg" data-size="1000x536"><img loading="lazy" src="https://hans-trapp.github.io/gh-pages/media/posts/7/gallery/20230809-Moineaux-02-89_1000-thumbnail.jpg" alt="" width="720" height="386"></a></figure>
+<figure class="gallery__item"><a href="https://hans-trapp.github.io/gh-pages/media/posts/7/gallery/20230917-moineaux-43-2_1000.jpg" data-size="1000x533"><img loading="lazy" src="https://hans-trapp.github.io/gh-pages/media/posts/7/gallery/20230917-moineaux-43-2_1000-thumbnail.jpg" alt="" width="720" height="384"></a></figure>
+</div></div>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Inscription au stage</title>
         <author>
