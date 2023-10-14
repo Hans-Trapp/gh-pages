@@ -3,12 +3,32 @@
     <title>Bidouille &amp; Compagnie</title>
     <link href="https://hans-trapp.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://hans-trapp.github.io/gh-pages" />
-    <updated>2023-10-12T16:13:14+02:00</updated>
+    <updated>2023-10-14T07:15:14+02:00</updated>
     <author>
         <name>D&#x27;Hans Trapp</name>
     </author>
     <id>https://hans-trapp.github.io/gh-pages</id>
 
+    <entry>
+        <title>Inscription au stage</title>
+        <author>
+            <name>D&#x27;Hans Trapp</name>
+        </author>
+        <link href="https://hans-trapp.github.io/gh-pages/inscription-au-stage/"/>
+        <id>https://hans-trapp.github.io/gh-pages/inscription-au-stage/</id>
+
+        <updated>2023-10-14T07:15:14+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Chargement…
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="640" height="740" src="https://docs.google.com/forms/d/e/1FAIpQLSeZOHAyPYqS4_iDKUS2_RqQ3fcorxfOaCynS-DDkocr8RRG1A/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Et aujourd&#x27;hui, elle vole</title>
         <author>

@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://hans-trapp.github.io/gh-pages/inscription-au-stage/",
+            "url": "https://hans-trapp.github.io/gh-pages/inscription-au-stage/",
+            "title": "Inscription au stage",
+            "summary": "Chargement…",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640\" height=\"740\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSeZOHAyPYqS4_iDKUS2_RqQ3fcorxfOaCynS-DDkocr8RRG1A/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Chargement…</iframe></div>",
+            "author": {
+                "name": "D&#x27;Hans Trapp"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-14T07:11:54+02:00",
+            "date_modified": "2023-10-14T07:15:14+02:00"
+        },
+        {
             "id": "https://hans-trapp.github.io/gh-pages/et-aujourdhui-elle-vole/",
             "url": "https://hans-trapp.github.io/gh-pages/et-aujourdhui-elle-vole/",
             "title": "Et aujourd&#x27;hui, elle vole",
