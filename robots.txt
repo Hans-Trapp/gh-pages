@@ -1,0 +1,5 @@
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: *
+Disallow:
+Sitemap: https://hans-trapp.github.io/gh-pages/sitemap.xml
